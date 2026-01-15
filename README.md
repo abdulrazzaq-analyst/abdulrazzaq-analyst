@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋 I'm Abdul Razzaq
 
-<!--
-**abdulrazzaq-analyst/abdulrazzaq-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Statistical Modeling
 
-Here are some ideas to get you started:
+Data Analyst with a strong foundation in statistics and hands-on experience in data analysis.  
+Skilled in Python, SQL, Power BI, Excel, EViews, and SPSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- Python, Pandas, NumPy
+- SQL
+- Power BI, Excel
+- EViews, SPSS
+- Statistical Modeling, EDA
+
+### 📌 Featured Projects
+- Amazon Product EDA
+- Sales Trend Analysis
+- Performance Dashboard
