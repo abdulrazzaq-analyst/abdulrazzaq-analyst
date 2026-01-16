@@ -1,73 +1,15 @@
-<h1 align="center">Hi 👋 I'm Abdul Razzaq</h1>
-<h3 align="center">Data Analyst | Statistical Modeling</h3>
+# 💫 About Me:
+I am Abdul Razzaq, a detail-oriented Data Analyst with a strong foundation in statistics and hands-on experience working with real-world datasets. I specialize in data cleaning, exploratory data analysis, statistical modeling, and data visualization to transform raw data into actionable insights. My toolkit includes Python, SQL, Power BI, Excel, EViews, and SPSS, and I enjoy building clear visualizations and dashboards that support data-driven decision-making. I am actively seeking entry-level Data Analyst opportunities, and I am open to internships, freelance projects, and full-time roles.
 
-<p align="center">
-Data Analyst with a strong foundation in statistics and hands-on experience in data analysis projects.
-I focus on transforming raw data into actionable insights using analytical tools,
-statistical techniques, and clear data visualizations.
-</p>
 
----
-
-## 🔧 Skills & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,excel" />
-</p>
-
-<p align="center">
-<b>Python</b> (Pandas, NumPy, Matplotlib, Seaborn) • 
-<b>SQL</b> • 
-<b>Power BI</b> • 
-<b>Excel</b> • 
-<b>EViews</b> • 
-<b>SPSS</b>
-</p>
-
-<p align="center">
-Statistical Modeling • Regression Analysis • Hypothesis Testing •
-Exploratory Data Analysis • Data Cleaning
-</p>
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abdulrazzaq-analyst&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abdulrazzaq-analyst&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrazzaq-analyst&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=abdulrazzaq-analyst&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 📈 Amazon Product EDA
-Exploratory analysis of product prices, ratings, and customer reviews.  
-**Tools:** Python, Pandas, Seaborn  
-
-### 📊 Sales Trend Analysis
-Time-based sales analysis with trend identification and visualization.  
-**Tools:** Python, Matplotlib, Power BI  
-
-### 📉 Performance Dashboards
-Interactive dashboards for monitoring KPIs and business performance.  
-**Tools:** Power BI, Excel  
-
----
-
-## 🤝 Let’s Connect
-
-<p align="center">
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Abdul%20Razzaq-blue?style=for-the-badge&logo=linkedin">
-</a>
-</p>
-
-<p align="center">
-I am seeking entry-level Data Analyst opportunities and am open to internships,
-freelance projects, and full-time roles.
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
